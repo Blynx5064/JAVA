@@ -25,4 +25,4 @@ public class PromotionExample {
 	}
 }
 
-// 깃허브 파면 되고, 수업은 캐스팅 설명은 끝남
+// 수업은 캐스팅 설명은 끝남
