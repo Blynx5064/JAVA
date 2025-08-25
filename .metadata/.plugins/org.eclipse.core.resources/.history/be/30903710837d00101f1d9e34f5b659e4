@@ -1,0 +1,15 @@
+package sec02.exam01;
+
+public class IntegerLiteralExample {
+	public static void main(String[] args) {
+		int var1 = 0b1011;		// 2진수		0b(value)
+		int var2 = 0206;		// 8진수		0(value)
+		int var3 = 365;			// 10진수		(value)
+		int var4 = 0xff;		// 16진수		0x(value) / 0X(value)
+		
+		System.out.println("var1 :" + var1);
+		System.out.println("var2 :" + var2);
+		System.out.println("var3 :" + var3);
+		System.out.println("var4 :" + var4);
+	}
+}
