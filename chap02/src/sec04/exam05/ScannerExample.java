@@ -15,5 +15,6 @@ public class ScannerExample {
 			}
 		}
 		System.out.println("프로그램 종료");
+		scanner.close();
 	}
 }
